@@ -1,0 +1,2 @@
+msoffcrypto-tool>=6.0.0
+tqdm>=4.0.0

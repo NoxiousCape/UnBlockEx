@@ -25,9 +25,19 @@ Admite tres estrategias de ataque:
 
 ---
 
-## 🖥️ Captura de pantalla
+## 🖥️ Capturas de pantalla
 
-![UnBlockEx UI](./assets/screenshot.png)
+<p align="center">
+  <img src="./assets/1.png" alt="Pestaña: Known Password" width="32%"/>
+  &nbsp;
+  <img src="./assets/2.png" alt="Pestaña: Dictionary Attack" width="32%"/>
+  &nbsp;
+  <img src="./assets/3.png" alt="Pestaña: Brute Force" width="32%"/>
+</p>
+
+<p align="center">
+  <sub>🔑 Known Password &nbsp;&nbsp;|&nbsp;&nbsp; 📖 Dictionary Attack &nbsp;&nbsp;|&nbsp;&nbsp; ⚡ Brute Force</sub>
+</p>
 
 ---
 
